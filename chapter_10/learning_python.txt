@@ -1,0 +1,4 @@
+In Python you can do a lot of things!
+You can assign data to variables.
+You can create functions and classes.
+You can do almost anything in python !

@@ -1,0 +1,3 @@
+{'Alex': "Programming let's me do some cool things"}
+{'Liza': 'I love building things!'}
+{'Dave': 'I love solving problems'}
