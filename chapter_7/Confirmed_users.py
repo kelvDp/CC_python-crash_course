@@ -2,8 +2,10 @@
 # and an empty list to hold confirmed users.
 unconfirmed_users = ['alice', 'brian', 'candace']
 confirmed_users = []
+
 # Verify each user until there are no more unconfirmed users.
 # Move each verified user into the list of confirmed users.
+
 while unconfirmed_users:  #while there are items in that list
     current_user = unconfirmed_users.pop()
     print(f"Verifying user: {current_user.title()}")
